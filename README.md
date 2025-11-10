@@ -37,8 +37,7 @@ properties with the solid-solution hardening of pure Y, making
 MG-Y systems of varying Y weight percentages a material of
 interest for applications demanding high strength, lightweight
 applications. More specifically, MG-Y systems have been used
-in artificial knee joints, aircraft components, and various high-
-performance automotive components. Thus, it is important that
+in artificial knee joints, aircraft components, and various high-performance automotive components. Thus, it is important that
 highly accurate, well-defined energy potentials of pure Y are
 published to support the development of more robust, complex
 molecular alloys for more conditional applications.
@@ -75,8 +74,7 @@ machine learning fitted potentials have not only demonstrated
 ML-enabled potentials to fit normal material behavior metrics
 (i.e. elastic constants, energy-volume curves), but also shed
 light onto more subtle behaviors such as temperature at phase
-transformation or atomic structure during dislocation com-
-pared to MEAM or EAM potentials. In this paper, we test and
+transformation or atomic structure during dislocation compared to MEAM or EAM potentials. In this paper, we test and
 validate the fidelity of a pre-trained machine learning model
 for fitting DFT datasets for MD simulation in Large-scale
 Atomic/Molecular Massively Parallel Simulator(LAMMPS).
