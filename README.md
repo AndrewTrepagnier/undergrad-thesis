@@ -5,11 +5,7 @@
 I am the first author of the following material; however, this work would not have been possible without Dr. Christopher Barrett and Dr. Doyl Dickel. This research builds off of their work [here](https://www.sciencedirect.com/science/article/abs/pii/S0927025621002068)
 
 
-
-
-
-![12377606-8449-4CED-B1C0-DEEC3649A4B4_1_105_c](https://github.com/user-attachments/assets/ea4ca987-ec34-4cb6-a4ea-749eeb7b2954)
-
+![6F16339B-AE9B-403A-AA9F-E8F4C593FA37](https://github.com/user-attachments/assets/0f0a6b3c-e60e-4407-9e85-7214092b119d)
 
 
 
