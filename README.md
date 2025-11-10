@@ -2,7 +2,7 @@
 
 ## Machine-Learned Interatomic Potential of Pure Crystalline Yttrium in Hexagonal Close-Packed form
 
-I am the first author of the following material; however, this work would not have been possible without Dr. Christopher Barrett and Dr. Doyl Dickel. This research builds off of their work [here](https://www.sciencedirect.com/science/article/abs/pii/S0927025621002068)
+I am the first author of the following material; however, this work would not have been possible without [Dr. Christopher Barrett](https://www.me.msstate.edu/people/faculty/christopher-barrett/) and  [Dr. Doyl Dickel](https://www.me.msstate.edu/people/faculty/doyl-dickel/). This research builds off of their work [here](https://www.sciencedirect.com/science/article/abs/pii/S0927025621002068)
 
 
 ![6F16339B-AE9B-403A-AA9F-E8F4C593FA37](https://github.com/user-attachments/assets/0f0a6b3c-e60e-4407-9e85-7214092b119d)
