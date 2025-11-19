@@ -11,20 +11,7 @@ I am the first author of the following material; however, this work would not ha
 
 
 ### Abstract
-The use of neural network architectures for interatomic potential fitting has recently become a computation
-strategy of great interest in material science research due to
-its superior ability handling large, memory-intensive datasets in
-sufficient time. One challenge in modern molecular dynamics
-is the inflexibility of conventional Modified Embedded Atom
-Methods(MEAM) and Embedded Atom Method (EAM) many-body potentials due to their limiting number of characterizing
-parameters. In this paper, we sought to approximate pure
-Yttrium potentials using a feed-forward multi-layer perceptron
-(MLP) neural network on Density Functional Theory(DFT)
-simulated databases. For each potential(Energy-Volume Relation,
-Elastic Constant, and Heat to Melt), our model demonstrated
-significantly higher agreement with DFT simulated potentials and
-empirical databases of pure Y than traditional MEAM and EAM
-formalisms.
+Pure crystalline Yttrium (Y) has been a material of great interest for solid-solution hardening of Magnesium (Mg) alloys due to its enhancement of Mg’s high strength-to-weight ratio. Molecular dynamics simulations have been a cornerstone of material science research for systems like Mg-Y for characterizing the behavior of various configurations on the atomic level. However, one challenge of modern molecular dynamics is the inflexibility of conventional interatomic potential formulations such as Modified Embedded Atom Methods (MEAM) and Embedded Atom Methods (EAM) due to their limited number of characterizing parameters. The use of neural network architectures for interatomic potential fitting has recently become a computation strategy of great interest in material science due to its superior abilities to train over large, memory-intensive datasets in reasonable time and to tailor the number of characterizing parameters to the needs of the dataset. In this study, an interatomic potential of pure Y was trained using a machine-learned rapid artificial neural network (RANN). The performance of the RANN model  was characterized by testing the machine-learned interatomic potential (MLIP) with the Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS). The model was validated based on two metrics of the potential – energy-volume relation, and elastic constants. For the energy-volume relation, the model achieved accuracies on the order of meV/atom compared to Density Functional Theory (DFT) energies. However, the predicted elastic constants showed significant deviations of up to 50\% difference from both DFT and MEAM-based calculations, suggesting the need for further refinement in training datasets and metaparameters.
 
 ### Introduction
 
